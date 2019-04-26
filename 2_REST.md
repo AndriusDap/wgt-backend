@@ -64,12 +64,13 @@ Išbandome su Postman įrankiu
 
 
 Užduotis: 
-Eksperimentuoti su dabaratine programa:
-    Kaip atrodo klaidos pridedant kelis GET metodus tam pačiam adresui
-    Kaip atrodo klaidos nuimant anotacijas @ResponseBody, @ResponseStatus
-    Kaip atrodo klaidos jei data transfer object klasei ištrinsime metodus skirtus gauti laukams
-    Kas atrodo klaidos "metant" Exception: `throw new RuntimeException()`
-    Kaip atrodo klaidos siunčiant neteisingas užklausas - blogas kelias, blogas turinys
+
+Eksperimentuoti su dabartine programa:
+* Kaip atrodo klaidos pridedant kelis GET metodus tam pačiam adresui
+* Kaip atrodo klaidos nuimant anotacijas @ResponseBody, @ResponseStatus
+* Kaip atrodo klaidos jei data transfer object klasei ištrinsime metodus skirtus gauti laukams
+* Kas atrodo klaidos "metant" Exception: `throw new RuntimeException()`
+* Kaip atrodo klaidos siunčiant neteisingas užklausas - blogas kelias, blogas turinys
 
 Išbandyti kitus endpointų tipus POST, GET, DELETE, PUT
 
