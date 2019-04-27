@@ -73,5 +73,3 @@ Eksperimentuoti su dabartine programa:
 * Kaip atrodo klaidos siunčiant neteisingas užklausas - blogas kelias, blogas turinys
 
 Išbandyti kitus endpointų tipus POST, GET, DELETE, PUT
-
-
